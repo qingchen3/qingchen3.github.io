@@ -1,0 +1,14 @@
+# Site settings
+title: Qing Chen
+email: qchen.cs3@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    I'm data engineer at PayPal Shanghai.
+    I study American politics, public opinion, and methods. 
+url: "http://jabranham.com" # the base hostname & protocol for your site
+github_username:  qingchen3
+permalink: /blog/:year/:month/:title.html
+gems:
+    - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
