@@ -6,3 +6,5 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "http://jabranham.com" # the base hostname & protocol for your site
 github_username:  qingchen3
 permalink: /blog/:year/:month/:title.html
+
+theme: jekyll-theme-minimal
